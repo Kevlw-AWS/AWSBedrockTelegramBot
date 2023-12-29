@@ -1,0 +1,4 @@
+python-telegram-bot
+boto3
+requests
+pillow
