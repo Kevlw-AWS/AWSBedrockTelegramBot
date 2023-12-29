@@ -22,7 +22,7 @@ import os
 client = boto3.client('bedrock-runtime')
 
 # Fill in your token here
-bot_token = '6856536424:AAE13EFW6sG9u7yMMPHzuFPjLH2EWS0jLzM'
+bot_token = '<CHANGE THIS VALUE>'
 
 # Enable logging
 logging.basicConfig(
